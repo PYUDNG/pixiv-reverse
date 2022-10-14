@@ -1,11 +1,5 @@
 {
-  "name": "pixiv-reverse",
-  "version": "0.1.0",
-  "description": "Reverse proxy for i.pixiv.net",
-  "license": "I don't own the code. See 'https://pixiv.cat/reverseproxy.html'.",
-  "author": "Pixiv.cat",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/PYUDNG/pixiv-reverse.git"
+  "dependencies": {
+    "http-proxy": "^1.18.1"
   }
 }
